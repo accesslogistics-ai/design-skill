@@ -1,0 +1,20 @@
+{
+  "name": "access-global-logistics",
+  "interface": {
+    "displayName": "Access Global Logistics"
+  },
+  "plugins": [
+    {
+      "name": "access-design",
+      "source": {
+        "source": "local",
+        "path": "./plugins/access-design"
+      },
+      "policy": {
+        "installation": "INSTALLED_BY_DEFAULT",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
