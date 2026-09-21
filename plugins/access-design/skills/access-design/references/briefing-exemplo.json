@@ -1,0 +1,17 @@
+{
+  "title": "ATUALIZAÇÃO DE CADASTRO",
+  "intro": "Exemplo de composição para demonstrar a identidade visual da Access.",
+  "department": "MARKETING",
+  "sections": [
+    {
+      "heading": "O QUE PRECISA SER FEITO",
+      "paragraphs": ["Revise as informações do seu cadastro e confira se os dados de contato estão atualizados."]
+    },
+    {
+      "heading": "PRAZO DE ATUALIZAÇÃO",
+      "subtitle": "ORIENTAÇÃO AOS COLABORADORES",
+      "highlight": true,
+      "paragraphs": ["Este é um exemplo visual. Na peça real, inclua o prazo fornecido no briefing e mantenha o destaque **dentro do parágrafo**, na mesma fonte e tamanho."]
+    }
+  ]
+}
