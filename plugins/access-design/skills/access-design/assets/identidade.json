@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "colors": {
+    "primary": "#023F88",
+    "red": "#ED1B34",
+    "gray": "#6D6E71",
+    "navy": "#1E3662",
+    "wine": "#A01731",
+    "blue": "#1859B7",
+    "rose": "#E9465F",
+    "white": "#FFFFFF"
+  },
+  "fonts": {
+    "heading": "IBM Plex Mono",
+    "body": "Inter"
+  },
+  "logos": {
+    "azul-branco": {
+      "pdf": "assets/logos/azul-branco.pdf",
+      "png": "assets/logos/azul-branco.png",
+      "width": 2521,
+      "height": 438,
+      "ratio": 5.755707762557078
+    },
+    "azul-vermelho": {
+      "pdf": "assets/logos/azul-vermelho.pdf",
+      "png": "assets/logos/azul-vermelho.png",
+      "width": 2521,
+      "height": 438,
+      "ratio": 5.755707762557078
+    },
+    "branco": {
+      "pdf": "assets/logos/branco.pdf",
+      "png": "assets/logos/branco.png",
+      "width": 2521,
+      "height": 438,
+      "ratio": 5.755707762557078
+    },
+    "preto": {
+      "pdf": "assets/logos/preto.pdf",
+      "png": "assets/logos/preto.png",
+      "width": 2521,
+      "height": 438,
+      "ratio": 5.755707762557078
+    },
+    "vermelho-branco": {
+      "pdf": "assets/logos/vermelho-branco.pdf",
+      "png": "assets/logos/vermelho-branco.png",
+      "width": 2521,
+      "height": 438,
+      "ratio": 5.755707762557078
+    }
+  },
+  "operational_defaults": {
+    "notice_logo_width_ratio": 0.3,
+    "ui_logo_min_width_css_px": 200,
+    "clearspace_logo_height_ratio": 0.5
+  },
+  "defaults_status": "Parâmetros operacionais do pacote; não medidas oficiais do manual."
+}
