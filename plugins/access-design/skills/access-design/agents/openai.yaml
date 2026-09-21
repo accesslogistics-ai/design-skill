@@ -1,0 +1,7 @@
+interface:
+  display_name: "Access Design"
+  short_description: "Avisos e sistemas com a identidade da Access"
+  default_prompt: "Use $access-design para criar esta entrega com a identidade visual da Access."
+  brand_color: "#023F88"
+policy:
+  allow_implicit_invocation: true
