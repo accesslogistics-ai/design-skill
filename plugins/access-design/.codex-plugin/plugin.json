@@ -1,0 +1,23 @@
+{
+  "name": "access-design",
+  "version": "1.0.1",
+  "description": "Criação de avisos e interfaces com a identidade visual da Access Global Logistics.",
+  "author": {
+    "name": "Access Global Logistics"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Access Design",
+    "shortDescription": "Avisos e sistemas com a identidade da Access.",
+    "longDescription": "Fontes e logos oficiais, paleta Access, diretrizes de composição, gerador de avisos e base visual para sistemas. Inclui verificações de integridade e orientações de revisão.",
+    "developerName": "Access Global Logistics",
+    "category": "Productivity",
+    "capabilities": [],
+    "brandColor": "#023F88",
+    "defaultPrompt": [
+      "Crie um aviso institucional Access com estas informações.",
+      "Crie um sistema com a identidade visual da Access.",
+      "Revise esta peça conforme a identidade da Access."
+    ]
+  }
+}
